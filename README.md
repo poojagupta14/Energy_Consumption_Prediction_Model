@@ -1,4 +1,5 @@
 Energy_Consumption_Prediction_Model
+
 Objectives-
 1. Find trends in energy consumption around hours of the day, year, time, etc.
 2. Understand how daily trends change depending of the time of year, e.g., summer trends are different from winter trends.
